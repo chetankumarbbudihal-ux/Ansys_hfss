@@ -50,3 +50,10 @@ bandwidth and impedance matching compared to a conventional patch.
 ---
 
 ## Repository Structure
+Ansys_hfss/
+├── README.md
+├── simulation/
+│   └── patch_antenna.aedt
+├── antenna_3d_model.png
+├── s11_return_loss.png
+└── gain_pattern_3d.png
