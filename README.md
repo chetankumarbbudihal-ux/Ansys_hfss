@@ -57,3 +57,12 @@ Ansys_hfss/
 ├── antenna_3d_model.png
 ├── s11_return_loss.png
 └── gain_pattern_3d.png
+
+
+## Tools Used
+- ANSYS HFSS 2025 R2 (Student Edition)
+
+## Author
+**Chetan Kumar B Budihal**  
+MTech Electronics Design & Technology, NIT Calicut  
+[GitHub](https://github.com/chetankumarbbudihal-ux)
