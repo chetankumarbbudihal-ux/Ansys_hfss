@@ -7,7 +7,7 @@
 
 ## Antenna Model
 
-![3D Antenna Model](results/antenna_3d_model.png)
+![3D Antenna Model](antenna_3d_model.png)
 > E-shaped patch on dielectric substrate inside radiation boundary box (radbox::143)
 
 ---
