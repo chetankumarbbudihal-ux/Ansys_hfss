@@ -36,7 +36,7 @@ bandwidth and impedance matching compared to a conventional patch.
 
 ## S11 Return Loss Plot
 
-![S11 Return Loss](results/s11_return_loss.png)
+![S11 Return Loss](s11_return_loss.png)
 > Clear resonance dip at 2.4 GHz with S11 = -13.5 dB — 
 > well below the -10 dB threshold for good impedance matching.
 
@@ -44,7 +44,7 @@ bandwidth and impedance matching compared to a conventional patch.
 
 ## 3D Gain Radiation Pattern
 
-![Gain Pattern](results/gain_pattern_3d.png)
+![Gain Pattern](gain_pattern_3d.png)
 > Peak gain of 7.02 dBi with broadside directional radiation.
 
 ---
